@@ -170,3 +170,4 @@ const chainMetadata =  await getTokenMetadata(
 console.log(`Metadata -> ${chainMetadata?.additionalMetadata}`)
 
 // mint address: https://solana.fm/address/MNTcgzJoGVcJCx4asUF2iUdNtWgdtDniEHckFHchUZX/transactions
+// doc: https://solana.com/developers/guides/token-extensions/metadata-pointer
